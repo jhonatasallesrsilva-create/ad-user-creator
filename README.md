@@ -118,7 +118,7 @@ ad-user-creator/
 
 > Interface gráfica com tema escuro, log em tempo real e barra de progresso por etapas.
 
-*(Adicione aqui screenshots da sua instalação)*
+<img src="screenshot.png" width="720"/>
 
 ---
 
