@@ -1,0 +1,31 @@
+# ============================================================
+# Arquivos SENSIVEIS - NUNCA fazer commit destes arquivos!
+# ============================================================
+
+# Configuracao com dados da organizacao
+config.ps1
+
+# Credenciais salvas pelo app (DPAPI)
+creds.xml
+config.xml
+
+# Logs e historico (dados de usuarios reais)
+logs/
+*.log
+*.csv
+
+# Logo da empresa (opcional, adicione a sua propria)
+scripts/logo.png
+
+# ============================================================
+# Outros arquivos comuns
+# ============================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+*.swp
+*~
